@@ -11,6 +11,6 @@ Day 12 challenge of 21-days coding challenge
 ![Day 12 Challenge](./keydetection.jpg "Slide In")
 
 
-Project link: [Key Sequence Detection](https://smtoyedeji.github.io/javascript21-12.github.io/)
+Project link: [Key Sequence Detection](https://smtoyedeji.github.io/keysequence/)
 
 
